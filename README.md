@@ -16,7 +16,7 @@ Finally, it also contains a small script that was used to do the differential ge
 
 ## Hardware requirements: 
 
-All the scripts and software used for the **18 months report** were run in a standard computer (RAM: 8GB, CP$: 4 cores, 3.60 GHZ/core) with a maximum runtime of approx. 30 minutes for the more demanding script ([**1_machine_learning_(All_methodologies).R**](https://github.com/eagomezc/2020_Biomarkers_identification_ML_and_RA/blob/master/b_R_Scripts/1_machine_learning_(All_methodologies).R)). 
+All the scripts and software used for the **PhD Thesis** were run in a standard computer (RAM: 8GB, CP$: 4 cores, 3.60 GHZ/core) with a maximum runtime of approx. 30 minutes for the more demanding script ([**1_machine_learning_(All_methodologies).R**](https://github.com/eagomezc/Machine-Learning-and-RA-treatment/blob/main/b_R_Scripts/1_machine_learning_(All_methodologies).R)). 
 
 A computer with lower specs (e.g. 2GB of RAM) will work but some scripts will take longer to run. 
 
@@ -57,7 +57,7 @@ BiocManager::install("edgeR")
 
 The repository contains three folders: 
 
-## [a_Data](https://github.com/eagomezc/2020_Biomarkers_identification_ML_and_RA/tree/master/a_Data)
+## [a_Data](https://github.com/eagomezc/Machine-Learning-and-RA-treatment/tree/main/a_Data)
 
 This folder contains, separated by subfolders, the different file formats that has to be used to run the different R scripts. Each subfolder has the name of the specific script where they can be used, in addition to the number of the script, to make more clear what file is used in what folder. At the moment to download this repository in a local computer, it's important to remember that all the **input pathways in the scripts has to be changed**.
 
@@ -71,7 +71,7 @@ The subfolders are:
 
 More details about the format of this files can be seen in the comments of each script. 
 
-## [b_R_Scripts](https://github.com/eagomezc/2020_Biomarkers_identification_ML_and_RA/tree/master/b_R_Scripts)
+## [b_R_Scripts](https://github.com/eagomezc/Machine-Learning-and-RA-treatment/tree/main/b_R_Scripts)
 
 This folder contains the scripts used to create the support vector machine and random forest prediction models, in addition to the script used to run differential gene expression analysis of interested genes in the lipid mediator pathways. 
 
@@ -85,7 +85,7 @@ The scripts are:
 
 More details of how the scripts works can be seen in the comments of each script. 
 
-## [c_Expected_Output](https://github.com/eagomezc/2020_Biomarkers_identification_ML_and_RA/tree/master/c_Expected_Output)
+## [c_Expected_Output](https://github.com/eagomezc/Machine-Learning-and-RA-treatment/tree/main/c_Expected_Output)
 
 This folder contains, separated by subfolders, the different expected outputs that can be obtain after running the R scripts. Each subfolder has the name of the specific script that generates it, in addition to the number of the script, to make more clear what file is the result of what script. At the moment to download this repository in a local computer, it's important to remember that all the **output pathways in the scripts has to be changed**.
 
@@ -99,9 +99,11 @@ The subfolders are:
 
 More details about how this files are generated can be seen in the comments of each script. 
 
-# 18 Months Report:
+# Publication:
 
-The 18 months report can also be found in this repository. You can have access to it [here](https://github.com/eagomezc/2020_Biomarkers_identification_ML_and_RA/blob/master/18%20Months%20Report%20Esteban%20Gomez%20Cifuentes%20190521.pdf).
+Part of the results from this section of my thesis are described in the following paper: 
+
+[Gomez, E.A., Colas, R.A., Souza, P.R., Hands, R., Lewis, M.J., Bessant, C., Pitzalis, C., Dalli, J., 2020. Blood pro-resolving mediators are linked with synovial pathology and are predictive of DMARD responsiveness in rheumatoid arthritis. Nat Commun 11, 5420.](https://www.nature.com/articles/s41467-020-19176-z) 
  
  
 
