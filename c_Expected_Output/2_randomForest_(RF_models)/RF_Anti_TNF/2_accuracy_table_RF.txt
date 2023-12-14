@@ -1,0 +1,10 @@
+groups	percentage_accuracy	sensitivity	specificity	TP_per	FP_per	TN_per	FN_per	MCC
+scalated lm profiles	58	0.75	0.38	75	62	38	25	-0.65
+DHA	69	0.8	0.56	80	44	56	20	-0.82
+n-3 DPA	64	0.7	0.56	70	44	56	30	0.65
+EPA	50	0.5	0.5	50	50	50	50	-0.9
+AA	53	0.7	0.31	70	69	31	30	-0.5
+Best LM	81	0.85	0.75	85	25	75	15	0.14
+RvD5, RvD2n-3DPA, RvE2	72	0.75	0.69	75	31	69	25	-0.12
+Best LM 3	75	0.75	0.75	75	25	75	25	0
+RvD5, RvE2, Mar1n-3DPA, RvE3, 10S-17SdiHDPA	81	0.8	0.81	80	19	81	20	0.14

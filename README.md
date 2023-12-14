@@ -1,4 +1,4 @@
-# Machine Learning models to predict response to DMARD treatment in rheumatoid arthritis patients using lipid mediator profiles
+# Blood pro-resolving mediators as biomarkers to predict the response of DMARD treatment in rheumatoid arthritis patients
 
 # Overview: 
 
