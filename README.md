@@ -73,7 +73,7 @@ More details about the format of this files can be seen in the comments of each 
 
 ## [b_R_Scripts](https://github.com/eagomezc/Machine-Learning-and-RA-treatment/tree/main/b_R_Scripts)
 
-This folder contains the scripts used to create the support vector machine and random forest prediction models, in addition to the script used to run differential gene expression analysis of interested genes in the lipid mediator pathways. 
+This folder contains the scripts used to create the machine learning prediction models, in addition to the script used to run differential gene expression analysis of interested genes in the lipid mediator pathways. 
 
 The scripts are: 
 
@@ -91,7 +91,7 @@ This folder contains, separated by subfolders, the different expected outputs th
 
 The subfolders are:
 
-**1_machine_learning_(All_methodologies).R**: The expected results from this script are a tab-delimited file containing a table with the model's names, the machine learning strategy used, their accuracy percentages, sensitivity, specificity and confusion table; a figure of all the models with their accuracy score, the tunning parameters figure and the different models saved as an R object that can be used in the future.  
+**1_machine_learning_(All_methodologies)**: The expected results from this script are a tab-delimited file containing a table with the model's names, the machine learning strategy used, their accuracy percentages, sensitivity, specificity and confusion table; a figure of all the models with their accuracy score, the tunning parameters figure and the different models saved as an R object that can be used in the future.  
 
 **2_randomForest_(RF_models)**: The expected results from this script are a tab-delimited file containing a table with the model's names, their accuracy percentages and their AUC values after evaluation with the test cohort; the different models saved as an R object that can be used in the future; and pdf files that contains plots associated with the performance of the models and the importance of each lipid mediator in the construction of the models. 
 
