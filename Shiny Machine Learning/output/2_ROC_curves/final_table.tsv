@@ -1,0 +1,21 @@
+machine_learning	groups	auc	sensitivity	specificity	TP	FP	TN	FN
+rf	ALL LM	0.72	0.58	0.64	58	36	64	42
+rf	DHA	0.43	0.42	0.55	42	45	55	58
+rf	n3DPA	0.58	0.78	0.32	78	68	32	22
+rf	EPA	0.58	0.5	0.32	50	68	32	50
+rf	AA	0.89	0.83	0.77	83	23	77	17
+svm	ALL LM	0.56	0.97	0.09	97	91	9	3
+svm	DHA	0.61	0.69	0.18	69	82	18	31
+svm	n3DPA	0.63	0.94	0.23	94	77	23	6
+svm	EPA	0.56	0.89	0.18	89	82	18	11
+svm	AA	0.7	0.92	0.09	92	91	9	8
+bayesian	ALL LM	0.56	0.33	0.5	33	50	50	67
+bayesian	DHA	0.61	0.47	0.32	47	68	32	53
+bayesian	n3DPA	0.72	0.89	0.41	89	59	41	11
+bayesian	EPA	0.56	0.89	0.18	89	82	18	11
+bayesian	AA	0.68	0.64	0.32	64	68	32	36
+net	ALL LM	0.72	0.94	0.5	94	50	50	6
+net	DHA	0.58	0.83	0.32	83	68	32	17
+net	n3DPA	0.65	0.89	0.32	89	68	32	11
+net	EPA	0.56	0.92	0.18	92	82	18	8
+net	AA	0.66	0.89	0.41	89	59	41	11

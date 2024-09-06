@@ -1,0 +1,53 @@
+	groups	Pathotype	Onset	ESR	RF	Tiredness VAS	Pain VAS	Pt. VAS Global Health	Physician VAS Global Assess.	Swollen Joints Baseline	DAS28	US Synovial Thickness (12max)	US Power Doppler (12max)
+PL001	Responder	Lymphoid	6	113	154	67	46	42	66	10	6.21		
+PL002	Responder	Fibroid	5	16	57	33	26	51	41	1	4.19		
+PL003	Responder	Myeloid	7	37	179	46	78	80	80	9	6.17		
+PL004	Responder	Lymphoid	2	43	81	0	47	79	85	8	5.09	29	14
+PL005	Responder	Lymphoid	3	35	246	7	71	90	78	5	6.23	3	24
+PL006	Responder	Lymphoid	12	45	91	3	36	57	47	3	4.92	20	3
+PL007	Responder	Lymphoid	12	24	0	87	95	94	85	23	7.66	16	8
+PL008	Responder	Myeloid	3	76	NA	73	79	83	82	7	6.79	17	9
+PL009	Responder	Lymphoid	4	50	39	47	73	68	61	5	5.8	27	12
+PL010	Responder	Lymphoid	10	43	464	2	97	35	95	15	7.01	25	10
+PL011	Responder	Fibroid	1	9	23	54	39	53	37	4	4.52	25	3
+PL012	Responder	Fibroid	8	5	0	34	71	71	48	11	4.73	23	0
+PL013	Responder	Myeloid	2	29	0	0	2	63	53	4	4.77	17	6
+PL014	Responder	Myeloid	4	30	0	75	78	89	83	21	7.71	22	16
+PL015	Responder	Fibroid	7	23	27	42	57	73	61	7	6.87	20	2
+PL016	Responder	Myeloid	2	19	0	15	51	58	72	8	5.3	26	9
+PL017	Responder	Fibroid	7	2	0	96	96	98	50	1	4.76	8	2
+PL018	Responder	Myeloid	2	25	0	22	39	80	73	4	6.1	21	2
+PL019	Responder	Myeloid	3	47	0	0	99	100	69	2	6.4	15	2
+PL020	Responder	Lymphoid	4	15	99	14	17	77	24	5	5.18	11	3
+PL021	Responder	Myeloid	3	14	69	80	63	100	63	4	5.39	24	4
+PL022	Responder	Myeloid	3.5	8	0	0	0	0	0	8	5.14	26	8
+PL023	Responder	Fibroid	5	24	137	42	27	26	35	2	3.95	20	6
+PL024	Responder	Lymphoid	3	39	395	31	57	83	76	8	6.46	24	14
+PL025	Responder	Fibroid	3	15	52	2	15	39	23	6	4.38	3	1
+PL026	Responder	Myeloid	9	5	63	66	24	77	56	5	4.85	13	7
+PL027	Responder	Lymphoid	12	15	64	0	30	40	47	5	5.39	20	2
+PL028	Responder	Fibroid	5	12	287	46	49	76	43	5	5.11	6	4
+PL029	Responder	Fibroid	9	17	0	27	24	51	47	6	4.97		
+PL030	Responder	Fibroid	12	17	0	18	10	74	47	3	5.36		
+PL031	Non_Responder	Lymphoid	1	28	0	47	63	48	70	18	7.58		
+PL032	Non_Responder	Fibroid	12	27	247	64	68	77	39	3	5.12		
+PL033	Non_Responder	Myeloid	3	2	50	99	59	100	47	8	5.12		
+PL034	Non_Responder	Lymphoid	3	84	600	49	68	77	91	16	7.18		
+PL035	Non_Responder	Lymphoid	12	43	168	81	100	71	84	13	6.88		
+PL036	Non_Responder	Fibroid	6	38	0	49	61	88	70	4	7.19	13	0
+PL037	Non_Responder	Myeloid	7	49	45	20	27	30	44	6	5.6		
+PL038	Non_Responder	Myeloid	8	38	36	52	91	65	70	3	5.06	5	0
+PL039	Non_Responder	Lymphoid	8	30	0	78	81	80	77	11	6.2		
+PL040	Non_Responder	Fibroid	12	49	0	22	74	93	67	7	6.5	6	0
+PL041	Non_Responder	Lymphoid	1	46	112	65	92	95	100	5	6.12	8	4
+PL043	Non_Responder	Fibroid	8	98	16	81	88	92	85	19	6.12	8	4
+PL044	Non_Responder	Fibroid	6	2	0	7	73	77	40	1	2.81	14	0
+PL045	Non_Responder	Lymphoid	6	90	22	53	48	69	100	9	7.12	32	21
+PL046	Non_Responder	Lymphoid	6	68	23	75	76	85	76	2	5.51	15	0
+PL047	Non_Responder	Fibroid	11	22	0	19	38	42	43	11	6.31	14	0
+PL048	Non_Responder	Myeloid	7	19	92	23	26	56	49	6	4.9	10	10
+PL049	Non_Responder	Fibroid	1.5	25	40	63	47	48	26	1	5.22		
+PL050	Non_Responder	Myeloid	5.5	44	92	36	72	73	54	2	5.92	27	19
+PL051	Non_Responder	Lymphoid	4	12	56	17	50	71	53	16	5.62		
+PL052	Non_Responder	Myeloid	7	9	62	27	5	98	80	5	4.66		
+PL054	Non_Responder	Fibroid	4	39	0	73	76	70	81	8	7.19		

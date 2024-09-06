@@ -1,0 +1,53 @@
+	groups	Onset	ESR	RF	Tiredness VAS	Pain VAS	Pt. VAS Global Health	Physician VAS Global Assess.	Swollen Joints Baseline	US Synovial Thickness (12max)	US Power Doppler (12max)
+PL001	Responder	6	113	154	67	46	42	66	10		
+PL002	Responder	5	16	57	33	26	51	41	1		
+PL003	Responder	7	37	179	46	78	80	80	9		
+PL004	Responder	2	43	81	0	47	79	85	8	29	14
+PL005	Responder	3	35	246	7	71	90	78	5	3	24
+PL006	Responder	12	45	91	3	36	57	47	3	20	3
+PL007	Responder	12	24	0	87	95	94	85	23	16	8
+PL008	Responder	3	76	NA	73	79	83	82	7	17	9
+PL009	Responder	4	50	39	47	73	68	61	5	27	12
+PL010	Responder	10	43	464	2	97	35	95	15	25	10
+PL011	Responder	1	9	23	54	39	53	37	4	25	3
+PL012	Responder	8	5	0	34	71	71	48	11	23	0
+PL013	Responder	2	29	0	0	2	63	53	4	17	6
+PL014	Responder	4	30	0	75	78	89	83	21	22	16
+PL015	Responder	7	23	27	42	57	73	61	7	20	2
+PL016	Responder	2	19	0	15	51	58	72	8	26	9
+PL017	Responder	7	2	0	96	96	98	50	1	8	2
+PL018	Responder	2	25	0	22	39	80	73	4	21	2
+PL019	Responder	3	47	0	0	99	100	69	2	15	2
+PL020	Responder	4	15	99	14	17	77	24	5	11	3
+PL021	Responder	3	14	69	80	63	100	63	4	24	4
+PL022	Responder	3.5	8	0	0	0	0	0	8	26	8
+PL023	Responder	5	24	137	42	27	26	35	2	20	6
+PL024	Responder	3	39	395	31	57	83	76	8	24	14
+PL025	Responder	3	15	52	2	15	39	23	6	3	1
+PL026	Responder	9	5	63	66	24	77	56	5	13	7
+PL027	Responder	12	15	64	0	30	40	47	5	20	2
+PL028	Responder	5	12	287	46	49	76	43	5	6	4
+PL029	Responder	9	17	0	27	24	51	47	6		
+PL030	Responder	12	17	0	18	10	74	47	3		
+PL031	Non_Responder	1	28	0	47	63	48	70	18		
+PL032	Non_Responder	12	27	247	64	68	77	39	3		
+PL033	Non_Responder	3	2	50	99	59	100	47	8		
+PL034	Non_Responder	3	84	600	49	68	77	91	16		
+PL035	Non_Responder	12	43	168	81	100	71	84	13		
+PL036	Non_Responder	6	38	0	49	61	88	70	4	13	0
+PL037	Non_Responder	7	49	45	20	27	30	44	6		
+PL038	Non_Responder	8	38	36	52	91	65	70	3	5	0
+PL039	Non_Responder	8	30	0	78	81	80	77	11		
+PL040	Non_Responder	12	49	0	22	74	93	67	7	6	0
+PL041	Non_Responder	1	46	112	65	92	95	100	5	8	4
+PL043	Non_Responder	8	98	16	81	88	92	85	19	8	4
+PL044	Non_Responder	6	2	0	7	73	77	40	1	14	0
+PL045	Non_Responder	6	90	22	53	48	69	100	9	32	21
+PL046	Non_Responder	6	68	23	75	76	85	76	2	15	0
+PL047	Non_Responder	11	22	0	19	38	42	43	11	14	0
+PL048	Non_Responder	7	19	92	23	26	56	49	6	10	10
+PL049	Non_Responder	1.5	25	40	63	47	48	26	1		
+PL050	Non_Responder	5.5	44	92	36	72	73	54	2	27	19
+PL051	Non_Responder	4	12	56	17	50	71	53	16		
+PL052	Non_Responder	7	9	62	27	5	98	80	5		
+PL054	Non_Responder	4	39	0	73	76	70	81	8		
