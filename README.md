@@ -99,6 +99,16 @@ The subfolders are:
 
 More details about how this files are generated can be seen in the comments of each script. 
 
+## [d_Shiny Machine Learning](https://github.com/eagomezc/Machine-Learning-and-RA-treatment/tree/main/d_Shiny%20Machine%20Learning)
+
+This folder contains a simple R Shiny application for inexperience users to be able to create machine learning models using lipid mediator data. 
+
+**input**: It contains some input files that can be used to run the machine learning models.
+
+**MachineLearningLM**: The ur and server files need it to run the R Shiny application.
+
+**output**: Expected results after using the machine learning application. 
+
 # Publication:
 
 Part of the results from this section of my thesis are described in the following paper: 
